@@ -3,5 +3,5 @@
 3、preference-》browser packages 打开目录，把【2】文件夹解压放在该目录下
 4、重启，打开preference-》preference setting-〉Package control settings default-》修改
 "channels": [
-		"/Users/libing/Documents/tools/channel_v3.json"
+		"/Users/libing/Documents/tools/channel_v3.json" 
 	],
